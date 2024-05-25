@@ -1,0 +1,2 @@
+Pierwsza linia "kodu" 12:45 25.05.2024
+gałąź "main+branch01" druga linia kodu 12:51 25.05.2024 =druga linia kodu 13:00 25.05.2024
